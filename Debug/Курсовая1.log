@@ -1,0 +1,19 @@
+﻿Построение начато 19.05.2022 17:40:42.
+     1>Проект "D:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая1\Курсовая1\Курсовая1.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Курсовая1.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Курсовая1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Form12.cpp /clr:nostdlib 
+         Form12.cpp
+     1>Form12.cpp(1): warning C4005: __CLR_VER: изменение макроопределения
+                 аргументы командной строки:  см. предыдущее определение "__CLR_VER"
+     1>Form12.cpp(1): warning C4651: параметр "/D__CLR_VER=40804470" указан для предкомпилированного заголовка, но не для текущей компиляции
+     1>d:\users\user\documents\visual studio 2010\projects\курсовая1\курсовая1\Form12.h(1): fatal error C1014: слишком много включаемых файлов: глубина = 1024
+     1>Построение проекта "D:\Users\User\Documents\Visual Studio 2010\Projects\Курсовая1\Курсовая1\Курсовая1.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.72
